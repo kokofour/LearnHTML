@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+
+
+header {
+    background-color: #d3e015b9;
+    color: rgba(45, 176, 216, 0.568);
+    text-align: center;
+    padding: 10px;
+}
+
+
+.profile {
+    text-align: center;
+    padding: 2em 0;
+}
+
+
+.profile-photo {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+ 
+
+.profile,.skills, .contact, .extrafun, .design {
+    margin: 2em auto;
+    padding: 1em;
+    max-width: 600px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+footer {
+    background-color: #b5be10b9;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    position: ;
+    bottom: 0;
+    width: 100%;
+}
+
+
+h2 {
+    color: #0aa3eff8;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+ul li {
+    background-color: #e7e7e7;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-radius: 4px;
+}
